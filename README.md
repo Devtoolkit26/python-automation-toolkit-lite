@@ -38,7 +38,7 @@ This is a 3-script preview of a larger 10-script automation toolkit I've been us
 - Scheduled task runner
 - Web scraper template with rate limiting
 
-Each in the full pack also ships with docs + example usage. If the three scripts here save you time, the full pack is at **[payhip.com/b/Zm4lG](https://payhip.com/b/Zm4lG)** ($12).
+Each in the full pack also ships with docs + example usage. If the three scripts here save you time, the full pack is at **[payhip.com/b/Zm4lG](https://payhip.com/b/QdBYS)** ($12).
 
 ## License
 
